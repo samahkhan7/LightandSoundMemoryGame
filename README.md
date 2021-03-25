@@ -45,10 +45,10 @@ Main Requirements:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.   
-I used the following resources for fonts and button colors:
-- https://www.w3schools.com/css//css_font_websafe.asp
-- https://www.color-hex.com/color/ffccee#:~:text=%23ffccee%20color%20RGB%20value%20is,of%20its%20RGB%20is%20238
-- https://www.rapidtables.com/web/css/css-color.html  
+I used the following resources for fonts and button colors:  
+https://www.w3schools.com/css//css_font_websafe.asp  
+https://www.color-hex.com/color/ffccee#:~:text=%23ffccee%20color%20RGB%20value%20is,of%20its%20RGB%20is%20238  
+https://www.rapidtables.com/web/css/css-color.html  
 In addition, I browsed through https://www.w3schools.com/js/default.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)  
