@@ -41,8 +41,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:  
 Main Requirements:  
 <img src="https://i.imgur.com/oCFqb7m.gif" height=250><br>
-Additional Requirements:  
-<img src="https://i.imgur.com/oCFqb7m.gif" height=250><br>
 
 
 ## Reflection Questions
@@ -60,7 +58,7 @@ One little challenge I faced in creating this submission was figuring out how th
 I am curious about how interactions between multiple pages on a website works. In this pre-work, to style the various items such as buttons, we had to use the click event for the buttons to change colors when pressed. This makes me wonder if every button on a website has code to dictate what it does. For the pages that take a user from one page to the other, are there specific links that are used? Is there a way to make the code less redundant in that regard? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)  
-If I had a few more hours to work on this project, I would first complete the remainder of the additional requirements which would include having the playback pick up speeds on different turns, allowing the computer to pick a different pattern each time the game is played, allowing the user 3 chances before losing, limiting the time the user has to enter their guess, and changing the game button sound into a more complex one. I would also try to turn this into a piano or guitar game in which the user would be able to select a song or tune of their liking from a predetermined list and then attempt to playback the sequence to win. It would be really interesting to see if a multiplayer option could be added. 
+If I had a few more hours to work on this project, I would first complete the additional requirements which would include having the playback pick up speeds on different turns, allowing the computer to pick a different pattern each time the game is played, allowing the user 3 chances before losing, limiting the time the user has to enter their guess, and changing the game button sound into a more complex one. I would also try to turn this into a piano or guitar game in which the user would be able to select a song or tune of their liking from a predetermined list and then attempt to playback the sequence to win. It would be really interesting to see if a multiplayer option could be added.
 
 
 ## License
